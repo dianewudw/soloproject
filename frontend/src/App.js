@@ -9,7 +9,7 @@ class App extends Component{
     render(){
         return(
         <div className = "app">
-        <h1>Tales of Wucifer</h1>
+        <h1>Tales of Wucifer 2</h1>
         </div>
         );
     }
